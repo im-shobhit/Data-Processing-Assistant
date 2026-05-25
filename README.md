@@ -56,20 +56,6 @@ A classic client-side application running entirely in the browser with no server
 
 ---
 
-**🏃‍♂️ How to Run This Project**
-
-**🐍 Running the Python (Streamlit) Version**
-
-**1. Install Dependencies:**
-```
-pip install streamlit pandas openpyxl
-```
-
-**2. Run the App:**
-```
-python -m streamlit run app.py
-```
----
 
 **🌐 Running the Web (HTML/CSS/JS) Version**
 
